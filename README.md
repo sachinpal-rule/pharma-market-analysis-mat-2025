@@ -12,6 +12,12 @@ Tools Used
 - Pivot Tables  
 - Data Visualization  
 
+Visual Insights
+Company Analysis:- ![Company Chart](Screenshot 2026-04-01 154034.png)
+
+Brand Analysis:- ![Brand Chart](Screenshot 2026-04-01 154018.png)
+
+Therapeutic Area Analysis:- ![Therapy Chart](Screenshot 2026-04-01 153927.png)
 
 Key Insights  
 - Sun Pharma leads the market with the highest revenue share  
